@@ -8,7 +8,7 @@
 
 ![這是一張圖片.](http://s05.calm9.com/qrcode/2024-04/FZG577XRZB.png)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/hfon9YTYKrs/0.jpg)](https://www.youtube.com/watch?v=hfon9YTYKrs "YOUR_VIDEO_TITLE")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/gA6Qf7iu8SE/0.jpg)](https://www.youtube.com/watch?v=gA6Qf7iu8SE "YOUR_VIDEO_TITLE")
 
 # 自我介紹
 ## 興趣
