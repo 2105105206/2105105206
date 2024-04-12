@@ -27,9 +27,9 @@
 
 大學生活
 
-<details><summary> 根節點 </summary>
+<details><summary> 根節點 </summary><blockquote>
 
-<details><summary> 第一層 </summary><blockquote>
+<details><summary> 第一層 </summary>
 A
-<details><summary> 第二層 </summary><blockquote>
+<details><summary> 第二層 </summary>
 B
