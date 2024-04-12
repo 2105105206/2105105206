@@ -8,12 +8,7 @@
 
 ![這是一張圖片.](http://s05.calm9.com/qrcode/2024-04/FZG577XRZB.png)
 
-[![Alternate Text]({image-url})]({video-url} "Link Title")
-
-[![NetFlix on UWP](https://res.cloudinary.com/marcomontalbano/image/upload/v1587315555/video_to_markdown/images/youtube--2qqYywttue4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2qqYywttue4 "NetFlix on UWP")
-
-[![Alternate Text]({[image-url](https://i.ytimg.com/vi/j6P_m6adkgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFNBSPs5DQ3vpaQtnO6QjMe_laSw)})]({[video-url](https://www.youtube.com/watch?v=j6P_m6adkgc)} "Link Title")
-https://www.youtube.com/watch?v=j6P_m6adkgc
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/hfon9YTYKrs/0.jpg)](https://www.youtube.com/watch?v="hfon9YTYKrs "YOUR_VIDEO_TITLE")
 
 # 自我介紹
 ## 興趣
