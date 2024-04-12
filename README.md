@@ -6,6 +6,9 @@
 | 電子郵件         | sky9763@gmail.com        |
 | 選修             | 智慧城市導論                  |
 
+![這是一張圖片.](http://s05.calm9.com/qrcode/2024-04/FZG577XRZB.png)
+
+
 # 自我介紹
 ## 興趣
 - 追實況主
@@ -24,5 +27,4 @@
 
 <details><summary> 大學生活 </summary><blockquote>
 
-![這是一張圖片.](http://s05.calm9.com/qrcode/2024-04/FZG577XRZB.png)
 
