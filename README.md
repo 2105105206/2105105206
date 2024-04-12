@@ -21,11 +21,11 @@
 - 使用電腦
 ## 自傳
 待更新
-<details> 個人經歷 <blockquote>
+個人經歷 
 
-<details> 大學之前 <blockquote>
+大學之前
 
-<details> 大學生活 <blockquote>
+大學生活
 
 <details><summary> 根節點 </summary>
 
