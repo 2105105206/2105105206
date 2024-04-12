@@ -18,6 +18,11 @@
 - 使用電腦
 ## 自傳
 待更新
+<details><summary> 個人經歷 </summary><blockquote>
+
+<details><summary> 大學之前 </summary><blockquote>
+
+<details><summary> 大學生活 </summary><blockquote>
 
 ![這是一張圖片.](http://s05.calm9.com/qrcode/2024-04/FZG577XRZB.png)
 
