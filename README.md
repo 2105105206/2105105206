@@ -28,7 +28,7 @@
 
 
 
-<summary> 個人經歷  </summary><blockquote>
+<details><summary> 個人經歷  </summary><blockquote>
 
 <summary> 大學之前 </summary>
 A
