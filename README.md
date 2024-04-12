@@ -21,15 +21,17 @@
 - 使用電腦
 ## 自傳
 待更新
-個人經歷 
 
-大學之前
 
-大學生活
 
-<details><summary> 根節點 </summary><blockquote>
 
-<details><summary> 第一層 </summary>
+
+
+<summary> 個人經歷  </summary><blockquote>
+
+<details><summary> 大學之前 </summary>
 A
-<details><summary> 第二層 </summary>
+<details><summary> 大學生活 </summary>
 B
+<details><summary> 工作經驗 </summary>
+C
