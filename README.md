@@ -5,3 +5,5 @@
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | sky9763@gmail.com        |
 | 選修             | 智慧城市導論                  |
+
+http://s05.calm9.com/qrcode/2024-04/FZG577XRZB.png
