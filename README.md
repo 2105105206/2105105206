@@ -29,9 +29,9 @@
 
 <summary> 個人經歷  </summary><blockquote>
 
-<details><summary> 大學之前 </summary>
+<summary> 大學之前 </summary>
 A
-<details><summary> 大學生活 </summary>
+<summary> 大學生活 </summary>
 B
-<details><summary> 工作經驗 </summary>
+<summary> 工作經驗 </summary>
 C
